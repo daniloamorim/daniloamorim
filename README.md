@@ -9,7 +9,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Connect with me:
+## Minhas Conexções:
 <p align="left">
 <!-- <a href="https://dev.to/daniloamorim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="daniloamorim" height="30" width="40" /></a> -->
 <!-- <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> -->
@@ -21,7 +21,7 @@
 <a href="https://instagram.com/amorimdanilo85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amorimdanilo85" height="30" width="40" /></a>
 <a href="https://medium.com/@amorim.danilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amorim.danilo" height="30" width="40" /></a>
 
-## Languages and Tools:
+## Linguagens e Ferramentas:
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
