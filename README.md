@@ -9,7 +9,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Minhas Conexções:
+## Minhas Redes:
 <p align="left">
 <!-- <a href="https://dev.to/daniloamorim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="daniloamorim" height="30" width="40" /></a> -->
 <!-- <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> -->
