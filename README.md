@@ -1,5 +1,7 @@
 # Olá 👋, meu nome é <b>_Danilo_
-### Gostaria de aprender mais e conhecer novas pessoas e projetos,</br> aos quais gostaria de ser útil marcando minha passagem de alguma forma.
+### Sou um desenvolvedor e resolvedor de problemas,</br> tenho mais de 7 anos de experiência no desenvolvimento.</br>
+Já trabalhei em diferentes tipos de projeto, iniciando um projeto do zero ou participando da expansão do código para melhoria,</br> fui instrutor de desenvovimento de sistemas
+ no SENAI/SC o que me ajudou a melorar tecnicamente e a desenvolver mina liderança e organização para projetos,</br> a algum tempo limpei meu portifólio no GitHub, mas estarei recomeçando alguns projetos para exemplificar melhor mina experiência. Me adapto ao ambiente que preciso para desempenar junto aos meus pares o melhot trabalho possível, espero que gostem dos projetos, seam bem vindos.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniloamorim&label=Profile%20views&color=0e75b6&style=flat" alt="daniloamorim" /> </p>
