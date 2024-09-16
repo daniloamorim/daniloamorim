@@ -37,7 +37,6 @@ Já trabalhei em diferentes tipos de projeto, iniciando um projeto do zero ou pa
 </br>
 <!-- https://www.vectorlogo.zone/logos/python/python-icon.svg -->
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://www.djangoproject.com/" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg)" alt="django" width="40" height="40"/> </a>
  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
  </br>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -54,11 +53,5 @@ Já trabalhei em diferentes tipos de projeto, iniciando um projeto do zero ou pa
   <a href="https://redis.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   </p>
-<!--  -->
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=daniloamorim&show_icons=true&locale=en" alt="daniloamorim" /> -->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniloamorim&show_icons=true&locale=en&layout=compact" alt="daniloamorim" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniloamorim&" alt="daniloamorim" /></p>
