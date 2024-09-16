@@ -1,5 +1,5 @@
 # Olá 👋, meu nome é <b>_Danilo_
-### Sou um desenvolvedor e resolvo de problemas,</br> tenho mais de 7 anos de experiência no desenvolvimento.</br>
+### Sou um desenvolvedor e pratico para resolver problemas,</br> tenho mais de 7 anos de experiência no desenvolvimento.</br>
 Já trabalhei em diferentes tipos de projeto, iniciando um projeto do zero ou participando da expansão do código para melhoria,</br> fui instrutor de desenvovimento de sistemas
  no SENAI/SC o que me ajudou a melhorar tecnicamente e a desenvolver minha liderança e organização para projetos e na parte de comunicação, a algum tempo limpei meu portifólio no GitHub(pois exemplificava e criava os projetos junto com os alunos), mas estarei recomeçando alguns projetos para exemplificar melhor minha experiência. Me adapto ao ambiente que preciso para desempenhar junto aos meus pares o melhor trabalho possível, espero que gostem dos projetos, sejam bem vindos.
 
